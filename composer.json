@@ -1,0 +1,16 @@
+{
+    "name": "blazgregorcic/statamic-alfred-docs",
+    "description": "An ultra-fast Statamic docs search workflow for Alfred 4.",
+    "version": "1.0",
+    "keywords": ["alfred", "alfred-workflow", "statamic", "algolia"],
+    "homepage": "https://github.com/blazgregorcic",
+    "support": {
+        "source": "https://github.com/blazgregorcic/statamic-alfred-docs",
+        "issues": "https://github.com/blazgregorcic/statamic-alfred-docs/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "algolia/algoliasearch-client-php": "^2.7"
+    }
+}
